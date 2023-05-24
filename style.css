@@ -1,0 +1,32 @@
+h1 {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+}
+ul{
+    
+    font-weight: bold;
+    width: 30rem;
+    height: 50rem;
+    position: relative;
+}
+
+body{
+    background-color: rgb(13, 173, 173);
+}
+div {
+margin: auto;
+margin-top: 150px;
+position: relative;
+} 
+
+#root {
+    width: 600px;
+    height: 300px;
+    background: grey;
+    border-radius: 600px / 300px;
+    text-align: center;
+
+}
+
